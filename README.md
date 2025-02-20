@@ -15,8 +15,12 @@ This project demonstrates how to dynamically style an HTML `<div>` using JavaScr
 
 ## How to View the Hosted Version
 1. Click on the live demo link below:
-   [Live Demo](https://your-hosted-link.com)
+   [Live Demo](https://dom-project-1-orpin.vercel.app/)
 
 2. The page will display a styled `div` with the applied styles.
 
 ## Repository Structure
+Three files
+- Index.html
+- dom.js
+- README.md
